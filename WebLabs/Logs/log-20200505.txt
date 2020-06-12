@@ -1,0 +1,4 @@
+2020-05-05T22:02:51.8439880+03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-05-05T22:02:51.8619891+03:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-05-05T22:02:51.8619891+03:00  [INF] Content root path: "H:\IITBSUIR\Trimester_4\4_trim\ASP\work\WebLabs\WebLabs" (b5d60022)
+2020-05-05T22:02:56.8666675+03:00  [INF] info: group=, page=1 (85a87afb)

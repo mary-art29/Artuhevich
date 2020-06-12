@@ -1,0 +1,36 @@
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.deps.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.runtimeconfig.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.runtimeconfig.dev.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.AssemblyInfoInputs.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.AssemblyInfo.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.genruntimeconfig.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.csprojAssemblyReference.cache
+D:\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.deps.json
+D:\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.runtimeconfig.json
+D:\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.runtimeconfig.dev.json
+D:\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.dll
+D:\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.csprojAssemblyReference.cache
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.AssemblyInfoInputs.cache
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.AssemblyInfo.cs
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.csproj.CoreCompileInputs.cache
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.dll
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+D:\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.genruntimeconfig.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.deps.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.runtimeconfig.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.runtimeconfig.dev.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\bin\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.csprojAssemblyReference.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.AssemblyInfoInputs.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.AssemblyInfo.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.csproj.CoreCompileInputs.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs.DAL\obj\Debug\netcoreapp3.1\WebLabs.DAL.genruntimeconfig.cache

@@ -1,0 +1,609 @@
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.StaticWebAssets.xml
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.exe
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.deps.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.runtimeconfig.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.runtimeconfig.dev.json
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.Views.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.Views.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.DAL.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csprojAssemblyReference.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.AssemblyInfoInputs.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.AssemblyInfo.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csproj.CoreCompileInputs.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorAssemblyInfo.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorAssemblyInfo.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.TagHelpers.input.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.TagHelpers.output.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorCoreGenerate.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Create.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Delete.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Details.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Edit.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Index.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\Index.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ListItemPartial.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ListPartial.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorTargetAssemblyInfo.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorTargetAssemblyInfo.cs
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.Views.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csproj.CopyComplete
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\staticwebassets\WebLabs.StaticWebAssets.Manifest.cache
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\staticwebassets\WebLabs.StaticWebAssets.xml
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.dll
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.pdb
+C:\Users\User01\Downloads\WebLabs_55-master\WebLabs_55-master\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.genruntimeconfig.cache
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.StaticWebAssets.xml
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\libman.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.exe
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.deps.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.runtimeconfig.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.runtimeconfig.dev.json
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.pdb
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.Views.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.Views.pdb
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.DAL.dll
+D:\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csprojAssemblyReference.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.AssemblyInfoInputs.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.AssemblyInfo.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csproj.CoreCompileInputs.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.MvcApplicationPartsAssemblyInfo.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.MvcApplicationPartsAssemblyInfo.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorAssemblyInfo.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorAssemblyInfo.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.TagHelpers.input.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.TagHelpers.output.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorCoreGenerate.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Create.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Delete.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Details.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Edit.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Index.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\Index.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\_ViewImports.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\_ViewStart.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ListItemPartial.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ListPartial.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorTargetAssemblyInfo.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorTargetAssemblyInfo.cs
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.Views.pdb
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csproj.CopyComplete
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\staticwebassets\WebLabs.StaticWebAssets.Manifest.cache
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\staticwebassets\WebLabs.StaticWebAssets.xml
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.dll
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.pdb
+D:\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.genruntimeconfig.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\appsettings.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\libman.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.StaticWebAssets.xml
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.exe
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.deps.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.runtimeconfig.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.runtimeconfig.dev.json
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.Views.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.Views.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.DAL.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\bin\Debug\netcoreapp3.1\WebLabs.DAL.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csprojAssemblyReference.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.AssemblyInfoInputs.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.AssemblyInfo.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csproj.CoreCompileInputs.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.MvcApplicationPartsAssemblyInfo.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.MvcApplicationPartsAssemblyInfo.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorAssemblyInfo.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorAssemblyInfo.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.TagHelpers.input.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.TagHelpers.output.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorCoreGenerate.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Create.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Delete.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Details.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Edit.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\Index.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\Index.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\_ViewImports.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\ApiDemo\Pages\_ViewStart.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ListItemPartial.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Product\_ListPartial.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UserPartial.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorTargetAssemblyInfo.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.RazorTargetAssemblyInfo.cs
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.Views.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.csproj.CopyComplete
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\staticwebassets\WebLabs.StaticWebAssets.Manifest.cache
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\staticwebassets\WebLabs.StaticWebAssets.xml
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.dll
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.pdb
+E:\БГУИР\4 триместр\Web_Labs\Artuhevich\Artuhevich\WebLabs\obj\Debug\netcoreapp3.1\WebLabs.genruntimeconfig.cache
